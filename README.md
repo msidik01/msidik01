@@ -16,7 +16,7 @@ I enjoy exploring patterns and solving challenges.
 ![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
 
 ## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=msidik01&show_icons=true&theme=radical)
 
 ## Contact Me
 
