@@ -1,6 +1,7 @@
 # Hi there :wave:, I'm Muhammad Sidik
 I'm a Data Science beginner with a keen interest in analyzing data. <br>
-I enjoy exploring patterns and solving challenges.
+I enjoy exploring patterns and solving challenges. <br>
+I like to watch anime and learn Japanese.
 
 ## Technologies:
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
