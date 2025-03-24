@@ -17,8 +17,11 @@ I like to watch anime and learn Japanese.
 ![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
 
 ## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=msidik01&show_icons=true&theme=radical)
+![msidik01's Stats](https://github-readme-stats.vercel.app/api?username=msidik01&theme=nightowl&show_icons=true&hide_border=false&count_private=true)
 
+![msidik01's Streak](https://github-readme-streak-stats.herokuapp.com/?user=msidik01&theme=nightowl&hide_border=false)
+
+![msidik01's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msidik01&theme=nightowl&show_icons=true&hide_border=false&layout=compact)
 ## Contact Me
 
 Feel free to reach out to me at msidik01@proton.me!
